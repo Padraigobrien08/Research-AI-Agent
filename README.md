@@ -48,6 +48,7 @@ This project implements a research assistant that leverages Langchain's tool-cal
    - `langchain_anthropic`
    - `langchain_core`
    - `langchain_community`
+   - `duckduckgo-search`
 
 ## Usage
 
