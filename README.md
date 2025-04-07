@@ -1,4 +1,3 @@
-```markdown
 # Research Assistant with Tool-Calling Agent
 
 This project implements a research assistant that leverages Langchain's tool-calling capabilities to process user queries, search for information, query Wikipedia, and save research outputs. It integrates the Anthropic Claude model for language understanding and uses a structured response format validated by Pydantic.
@@ -81,4 +80,3 @@ When prompted, enter your research query. The agent will process the query by:
 - Built following tutorial by TechwithTim (https://www.youtube.com/watch?v=bTMPwUgLZf0)
 - Built using the [Langchain](https://github.com/hwchase17/langchain) framework.
 - Integrates capabilities from Anthropic's Claude model and community tools for comprehensive research assistance.
-```
